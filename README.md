@@ -41,7 +41,7 @@ application is active.
 Changes from the Talkie source
 ------------------------------
 
-I've modified the code fromt the Talkie project in the following ways:
+I've modified the code from the Talkie project in the following ways:
 
 1) Converted from C++ to C
 
@@ -67,6 +67,7 @@ Building the Project
 --------------------
 
 Just run
+
 	make
 	
 Flashing
@@ -79,6 +80,7 @@ ST-LINK jumpers are set correctly (this example is for the on-board processor,
 so 1-2 and 3-4 should be shorted)
 
 3) run
+
 	make flash
 
 4) Done!
